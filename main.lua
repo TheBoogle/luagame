@@ -1,0 +1,1 @@
+print("© Samuel Fisher 2019")
